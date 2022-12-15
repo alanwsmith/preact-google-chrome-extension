@@ -28,4 +28,7 @@ That methodology avoids inline scripts in the
 HTML file itself which is what was causing
 all the issues.
 
+---
 
+Take a look at `bigger_example.js` for an example
+with some more heft to it. 

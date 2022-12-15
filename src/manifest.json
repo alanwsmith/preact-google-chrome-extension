@@ -1,0 +1,11 @@
+{
+    "name": "Preact Extension Test",
+    "version": "0.1.0",
+    "description": "A prototype of Preact running a Chrome extension",
+    "manifest_version": 3,
+    "author": "Alan W. Smith",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Preact Extension Test"
+    }
+}
